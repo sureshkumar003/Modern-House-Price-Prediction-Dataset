@@ -11,6 +11,17 @@ Dataset Size: 50,000 Rows × 18 Columns
 Target Variable: price (Continuous Numerical Variable)
 Type of Task: Supervised Learning — Regression
 
+Project Title: Comprehensive Real Estate Pricing Valuation Framework Using Supervised
+Regressors
+Dataset Name: Modern House Price Prediction Dataset
+
+Dataset Link: https://www.kaggle.com/datasets/miadul/house-price-prediction-
+dataset
+
+Dataset Size: 50,000 Rows × 18 Columns
+Target Variable: price (Continuous Numerical Variable)
+Type of Task: Supervised Learning — Regression
+
 Problem Statement:
 Accurately forecasting real estate prices is crucial for home buyers, investors, and urban planners. Housing prices are influenced by complex, interacting socioeconomic and geographical factors (such as regional income levels and proximity to employment hubs). This project aims to build a predictive machine learning model that leverages district-level census data to accurately estimate median home values, thereby minimizing financial risk in real estate investments.
 
