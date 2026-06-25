@@ -53,3 +53,35 @@ Figure 1: Correlation Heatmap of features.
 Figure 2: Scatter plot of Median Income vs. Median House Value.
 Figure 3: Feature Importance Plot from the Random Forest model.
 Table 1: Model Performance Comparison Matrix (Metrics across all models).
+
+
+ML assignment new/
+├── RQ1_Baseline_Performance.ipynb       # Baseline models: Linear Reg, Decision Tree, k-NN
+├── RQ2_Model_Comparison.ipynb           # Advanced models: Random Forest, XGBoost, SVR
+├── RQ3_Preprocessing_Effect.ipynb       # Impact of preprocessing strategies
+├── RQ4_Feature_Importance.ipynb         # Feature importance + SHAP analysis
+├── RQ5_Metric_Sensitivity.ipynb         # Model rankings across different metrics
+├── RQ6_Robustness.ipynb                 # Cross-validation and noise/missingness tests
+├── RQ7_Practical_Recommendation.ipynb  # Final decision matrix and recommendation
+├── README.md
+└── requirements.txt
+
+Models Used
+
+Linear Regression
+Decision Tree
+k-Nearest Neighbors (k-NN)
+Random Forest
+XGBoost
+Support Vector Regression (SVR)
+Evaluation Metrics
+
+MAE (Mean Absolute Error)
+RMSE (Root Mean Squared Error)
+R² (Coefficient of Determination)
+Expected Outputs
+
+Each notebook saves its results automatically:
+
+figures/ — Publication-ready figures saved as PDF
+tables/ — Result tables saved as CSV
