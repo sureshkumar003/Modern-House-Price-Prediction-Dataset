@@ -56,13 +56,13 @@ Table 1: Model Performance Comparison Matrix (Metrics across all models).
 
 
 ML assignment new/
-├── RQ1_Baseline_Performance.ipynb       # Baseline models: Linear Reg, Decision Tree, k-NN
-├── RQ2_Model_Comparison.ipynb           # Advanced models: Random Forest, XGBoost, SVR
-├── RQ3_Preprocessing_Effect.ipynb       # Impact of preprocessing strategies
-├── RQ4_Feature_Importance.ipynb         # Feature importance + SHAP analysis
-├── RQ5_Metric_Sensitivity.ipynb         # Model rankings across different metrics
-├── RQ6_Robustness.ipynb                 # Cross-validation and noise/missingness tests
-├── RQ7_Practical_Recommendation.ipynb  # Final decision matrix and recommendation
+├── RQ1.ipynb       # Baseline models: Linear Reg, Decision Tree, k-NN
+├── RQ2.ipynb           # Advanced models: Random Forest, XGBoost, SVR
+├── RQ3.ipynb       # Impact of preprocessing strategies
+├── RQ4.ipynb         # Feature importance + SHAP analysis
+├── RQ5.ipynb         # Model rankings across different metrics
+├── RQ6.ipynb                 # Cross-validation and noise/missingness tests
+├── RQ7.ipynb  # Final decision matrix and recommendation
 ├── README.md
 └── requirements.txt
 
