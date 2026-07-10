@@ -1,8 +1,7 @@
 #  Comprehensive Real Estate Pricing Valuation Framework Using Supervised
-Regressors
 
-**Student:** Karan Sridhar  
-**Matriculation Number:** 54842784  
+**Student:** Sureshkumar Karuppusamy  
+**Matriculation Number:** 51134495  
 **Class:** MSc Data Science 120B  
 **Dataset:** [Modern House Price Prediction Dataset](https://www.kaggle.com/datasets/miadul/house-price-prediction-
 dataset)
